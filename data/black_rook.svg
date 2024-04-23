@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="100"
+   height="100"
+   viewBox="0 0 100 100"
+   sodipodi:docname="black_rook.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="4.7556818"
+     inkscape:cx="8.0955795"
+     inkscape:cy="32.172043"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Vector"
+     transform="matrix(2.27,0,0,2.27,14.111804,-1.3478616)"
+     style="display:inline">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke-width:0.875425"
+       d="M 4.1506583,5.9354046 H 9.719073 v 3.3594566 l 3.083336,0.04602 V 5.7973447 h 5.752495 l 0.04602,3.5435364 h 3.037316 l -0.138061,-3.5895563 5.798514,0.04602 0.13806,7.6393122 -3.681595,2.577117 0.13806,9.802251 3.405475,3.175377 0.04602,2.577115 2.393037,2.623137 0.09204,5.476376 -28.3943048,-0.09204 -0.09204,-5.844534 2.7151772,-2.715177 -0.046021,-2.715178 3.3594565,-2.899256 -0.046021,-9.66419 -3.2213968,-2.024878 z"
+       id="path1149" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.875425"
+       d="m 5.531257,10.7675 v 2.254978 l 20.24878,-0.13806 -0.04602,-2.162938 z"
+       id="path149" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.875425"
+       d="m 7.924295,26.368263 -1.8868183,2.254978 18.9142013,0.13806 -1.88682,-2.347018 z"
+       id="path2039"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.875425"
+       d="m 5.6232974,31.660558 -2.1629381,2.070898 24.2064947,0.13806 -2.162938,-2.116917 z"
+       id="path3264" />
+  </g>
+</svg>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="100"
+   height="100"
+   viewBox="0 0 100 100"
+   sodipodi:docname="black_knight.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.7554279"
+     inkscape:cx="-5.2623406"
+     inkscape:cy="81.657009"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Vector"
+     transform="matrix(2.3,0,0,2.3,-24.427934,-3.4769278)"
+     style="display:inline">
+    <path
+       style="fill:#000000;fill-opacity:1"
+       d="m 16.944329,32.582848 c 0,0 0.803013,-3.844728 3.090382,-4.550406 2.28737,-0.705678 -2.092699,4.453071 -1.727694,5.475087 0.365006,1.022016 0.876014,2.384705 4.063731,-1.752028 3.187717,-4.136732 3.260719,-5.402085 8.784473,-5.475087 5.523754,-0.073 -6.545771,7.494786 -6.983778,8.930476 -0.372569,1.221198 -1.314021,6.448435 -0.876014,6.813441 l 28.25145,0.04867 c 0,0 3.552723,-32.3638468 -17.568946,-32.6558515 l -5.329084,-5.3534183 0.02433,4.6477405 -2.774044,0.024334 -3.358053,-4.769409 -0.02433,6.2050983 c 0,0 -4.793743,4.015064 -3.187717,8.200464 l -5.742758,8.273464 c 0,0 -1.752028,4.526072 3.358053,5.937428 z"
+       id="path1067"
+       sodipodi:nodetypes="csssssccccccccccsc" />
+    <path
+       style="fill:#ffffff;fill-opacity:1"
+       d="m 45.583274,40.76882 3.647785,0.06883 c 0,0 3.923091,-29.595246 -15.485883,-29.595246 l 0.06883,1.720654 c 0,0 15.879827,0.367172 11.769272,27.805766 z"
+       id="path1005" />
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1"
+       id="path1065"
+       cx="16.435398"
+       cy="27.674644"
+       rx="0.86032689"
+       ry="1.2560773" />
+    <ellipse
+       style="display:inline;fill:#ffffff;fill-opacity:1"
+       id="path1600"
+       cx="29.838427"
+       cy="-4.0694437"
+       rx="1.0585169"
+       ry="2.9078796"
+       transform="rotate(45)" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.434783"
+       d="m 28.723936,10.753245 -0.0279,1.645736 c 0,0 -4.184074,0.529983 -3.430941,-0.781027 0.753134,-1.31101 3.458835,-0.864709 3.458835,-0.864709 z"
+       id="path1676" />
+  </g>
+</svg>
